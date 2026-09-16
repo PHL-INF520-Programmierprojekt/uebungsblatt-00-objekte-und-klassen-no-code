@@ -5,7 +5,7 @@ In diesem Übungsblatt lernen Sie den Unterschied zwischen Objekten und Klassen 
 
 ## Übung: Das große Keks-Abenteuer
 
-In dieser Übung üben Sie die Identifizierung von Objekten, Attributen, Methoden, Klassen und Beziehungen in einem Szenario, das eine talentierte Bäckerin und ihren Kund&ast;innen involviert.
+In dieser Übung üben Sie, Objekten, Attributen, Methoden, Klassen und Beziehungen in einem Szenario zu identifizieren. Das Szenario involviert eine eine talentierte Bäckerin und ihre Kund&ast;innen.
 
 ### Szenario
 
@@ -25,7 +25,7 @@ Sobald die Kekse fertig sind, nimmt Sarah sie aus dem Ofen und lässt sie abküh
 
 ## Übung: Der Bauernmarkt
 
-In dieser Übung üben Sie die Identifizierung von Objekten, Attributen, Methoden, Klassen und Beziehungen in einem Szenario, das einen Bauernmarkt und seine Verkäufer&ast;innen involviert.
+In dieser Übung üben Sie, Objekten, Attribute, Methoden, Klassen und Beziehungen in einem Szenario zu identifizieren. Bei dem Szenario handelt es sich um einen Bauernmarkt und seine&ast;n Verkäufer&ast;innen.
 
 ### Szenario
 
